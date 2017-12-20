@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/NaiRobley/TwitterClone.svg)](http://hits.dwyl.io/NaiRobley/TwitterClone) [![Build Status](https://travis-ci.org/NaiRobley/TwitterClone.svg?branch=master)](https://travis-ci.org/NaiRobley/TwitterClone) [![Coverage Status](https://coveralls.io/repos/github/NaiRobley/TwitterClone/badge.svg?branch=master)](https://coveralls.io/github/NaiRobley/TwitterClone?branch=master)
 # Twitter Clone
 
 ## Server
