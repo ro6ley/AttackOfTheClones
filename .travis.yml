@@ -7,7 +7,6 @@ services:
   - mongodb
 before_script:
   - sleep 15
-  - cd TwitterClone
 script:
   - npm test
 after_script:
