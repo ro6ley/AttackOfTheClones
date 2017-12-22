@@ -1,0 +1,14 @@
+language: node_js
+sudo: required  
+dist: trusty
+node_js:
+  - stable
+services:
+  - mongodb
+before_script:
+  - sleep 15
+  - npm install
+script:
+  - npm test
+after_script:
+  - npm run coveralls
