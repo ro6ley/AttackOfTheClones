@@ -9,6 +9,4 @@ Source folders:
 
 | Folder            | Upstream Repo        | Description |
 |:------------------|:---------------------|:------------|
-|`TwitterClone`| https://github.com/NaiRobley/TwitterClone | A clone of Twitter
-built with JavaScript |
-
+|`TwitterClone`| https://github.com/NaiRobley/TwitterClone | A clone of Twitter built with JavaScript |
