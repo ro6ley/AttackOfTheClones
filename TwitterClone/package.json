@@ -40,7 +40,7 @@
     "foreman": "^2.0.0",
     "history": "^4.7.2",
     "joi": "^13.0.2",
-    "jsonwebtoken": "^8.1.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^4.13.7",
     "morgan": "^1.9.0",
     "prop-types": "^15.6.0",
